@@ -11,8 +11,8 @@ Ninguno
 
 ## Capturas de pantalla
 
+![Imagen con texto en pantalla](https://raw.githubusercontent.com/dannyredpy/ipdm-oto-2025-osvaldo_candia_-calculadora_propinas/refs/heads/main/imagen02.png)
 ![Imagen con texto en pantalla](https://raw.githubusercontent.com/dannyredpy/ipdm-oto-2025-osvaldo_candia_-calculadora_propinas/refs/heads/main/imagen01.png)
-(https://raw.githubusercontent.com/dannyredpy/ipdm-oto-2025-osvaldo_candia_-calculadora_propinas/refs/heads/main/imagen01.png)
 
 
 ## Cómo ejecutar
