@@ -1,24 +1,22 @@
-Tip Time - Solution Code
-=================================
+# Aplicación "Aplicación Calculadora de Propinas - Tip_Time.app"
 
-Solution code for the [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course): Tip Time app.
+## Descripción
 
-
-Introduction
-------------
-The Tip Time app contains various UI elements for calculating a tip,
-teaching about user input, and State in Compose.
-
-
-Pre-requisites
+Este proyecto contiene:
+- La creacion de una calculadora interactiva de propinas que puede calcular y redondear automáticamente un importe de propina cuando ingresas el importe de la factura y el porcentaje de propina.
+  
+## Pre-requisitos
 --------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
+Ninguno 
+
+## Capturas de pantalla
+
+![Imagen con texto en pantalla] (https://raw.githubusercontent.com/dannyredpy/ipdm-oto-2025-osvaldo_candia_-calculadora_propinas/refs/heads/main/Captura%20de%20pantalla%202025-06-02%20a%20la(s)%2015.00.55.png)
+
+(https://raw.githubusercontent.com/dannyredpy/ipdm-oto-2025-osvaldo_candia_-calculadora_propinas/refs/heads/main/Captura%20de%20pantalla%202025-06-02%20a%20la(s)%2015.03.52.png)
 
 
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+## Cómo ejecutar
+1. Abrir el proyecto Tip_Time en Android Studio.
+2. Compilar y ejecutar en un emulador con API 31.
+3. Veras una pantalla con la calculadora de propinas.
